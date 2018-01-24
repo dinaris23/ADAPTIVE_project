@@ -1,1 +1,1 @@
-[responsive-layout](https://dinaris23.github.io/Responsive_template/index.html)
+[responsive-layout](https://dinaris23.github.io/ADAPTIVE_project/)
